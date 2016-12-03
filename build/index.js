@@ -4,10 +4,11 @@ angular.module('ngProphet', [])
         return {
             setVal: function(b){ val = !!b; },
             getVal : function () { return val; },
-            $get: function(){
+            $get: function($document){
                 return {
                     doStuff: function (text){
                         console.log("Doing stuff from the provider", text, val);
+                        console.log($document.find('ul')[0]);
                     }
                 }
 
