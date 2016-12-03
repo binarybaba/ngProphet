@@ -1,0 +1,34 @@
+{
+  "name": "ngProphet",
+  "authors": [
+    "Amin Mohamed Ajani <me@allrightamin.xyz>"
+  ],
+  "description": "Angular directive for ProphetJS",
+  "main": "index.js",
+  "keywords": [
+    "toast",
+    "alertify",
+    "alert",
+    "messages",
+    "notification",
+    "directive",
+    "angular",
+    "snarl",
+    "growl",
+    "style",
+    "jquery",
+    "javascript",
+    "library"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.github.com/binarybaba",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets",
+    "test",
+    "tests"
+  ]
+}
