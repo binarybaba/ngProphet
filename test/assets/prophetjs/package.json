@@ -1,0 +1,38 @@
+{
+  "name": "prophetjs",
+  "version": "1.0.0",
+  "description": "A very lean dependency free javascript library to display toast messages on web pages.",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-minify": "0.0.14",
+    "gulp-rename": "^1.2.2",
+    "typescript": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binarybaba/prophetjs.git"
+  },
+  "keywords": [
+    "notification",
+    "alert",
+    "alertify",
+    "jquery",
+    "notifications",
+    "notify",
+    "snarl",
+    "snarl notification",
+    "snarl toasts",
+    "toast",
+    "toast notifications",
+    "toastr",
+    "toastr alerts",
+    "toast message"
+  ],
+  "author": "Amin Mohamed Ajani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binarybaba/prophetjs/issues"
+  },
+  "homepage": "https://github.com/binarybaba/prophetjs#readme"
+}

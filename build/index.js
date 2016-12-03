@@ -1,13 +1,28 @@
 angular.module('ngProphet', [])
+    .provider('$message', function $messageProvider(){
+        var val = true;
+        return {
+            setVal: function(b){ val = !!b; },
+            getVal : function () { return val; },
+            $get: function(){
+                return {
+                    doStuff: function (text){
+                        console.log("Doing stuff from the provider", text, val);
+                    }
+                }
+
+            }
+        }
+    })
     .directive('message', function(){
         return {
             restrict:'E',
-            transclude:true,
             template:'<ul class="prophet"></ul>',
             link: function(scope, elem, attrs, ctrl){
                 console.info("Directive working");
-                console.dir(scope, elem, attrs);
             }
         }
-
+    })
+    .run(function(){
+        console.log("Run block");
     })
