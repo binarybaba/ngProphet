@@ -1,0 +1,32 @@
+{
+  "name": "ngprophet",
+  "version": "1.0.0",
+  "description": "A very lean AngularJs Directive to display toast messages on web pages",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-minify": "0.0.14",
+    "gulp-rename": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binarybaba/ngProphet.git"
+  },
+  "keywords": [
+    "notification",
+    "alert",
+    "alertify",
+    "snarl",
+    "growl",
+    "toast",
+    "toastr",
+    "angular",
+    "directive"
+  ],
+  "author": "Amin Mohamed Ajani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binarybaba/ngProphet/issues"
+  },
+  "homepage": "https://github.com/binarybaba/ngProphet#readme"
+}
