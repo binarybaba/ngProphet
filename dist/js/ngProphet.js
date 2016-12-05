@@ -171,7 +171,7 @@ angular.module('ngProphet', [])
             }
         }
     })
-    .directive('prophet', function($document){
+    .directive('prophet', function(){
         return {
             restrict:'C'
         }
