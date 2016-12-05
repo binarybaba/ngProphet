@@ -25,8 +25,9 @@ This project adheres to [Semantic Versioning](http://semver.org/). Sometimes I d
 ### Get the files:
 Choose any of the ways to get prophet:
 
-- clone from github 
-- Install from bower 
+- clone from github `git clone https://github.com/binarybaba/prophetjs.git`
+- Install from bower `bower install ngprophet --save`
+- Install from npm `npm install ngprophet --save`
 
 ### Find the files
 You'll see the files in the dist folder:
