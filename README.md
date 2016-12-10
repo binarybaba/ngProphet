@@ -1,5 +1,8 @@
 # ngProphet
 
+[![NPM](https://nodei.co/npm/ngprophet.png?downloads=true&downloadRank=true)](https://nodei.co/npm/ngprophet/)
+[![NPM](https://nodei.co/npm-dl/ngprophet.png?months=1&height=3)](https://nodei.co/npm/ngprophet/)
+
 A very lean AngularJS directive to display toast messages on web pages.
 This project adheres to [Semantic Versioning](http://semver.org/). Sometimes I do screw up though.
 
