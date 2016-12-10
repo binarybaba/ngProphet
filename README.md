@@ -3,7 +3,8 @@
 [![NPM](https://nodei.co/npm/ngprophet.png?downloads=true&downloadRank=true)](https://nodei.co/npm/ngprophet/)
 [![NPM](https://nodei.co/npm-dl/ngprophet.png?months=1&height=3)](https://nodei.co/npm/ngprophet/)
 
-A very lean AngularJS directive to display toast messages on web pages.
+A very lean AngularJS directive to display toast messages on web pages. if you'd rather prefer a library, checkout [ProphetJS](https://www.github.com/binarybaba/prophetjs) from which ngProphet was inspired.
+
 This project adheres to [Semantic Versioning](http://semver.org/). Sometimes I do screw up though.
 
 #### Version 1.0.0
